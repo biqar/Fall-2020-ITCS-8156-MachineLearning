@@ -10,16 +10,14 @@ The data should to be large enough more than 10,000 samples and more than 10 fea
 Introduce your data and visualize them. Describe your observations about the data.
 
 ### II.1. Data
-
-
 ### II.2. Visualization & Observation
 
-# III. Conclusions
+## III. Conclusions
 
 Discuss the challenges or somethat that you learned. 
 If you have any suggestion about the assignment, you can write about it.
 
-# References
+## References
 
 List your references here... 
 Follow either MLA or APA style!
