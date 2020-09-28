@@ -19,3 +19,6 @@ This repository contains the projects and assignments of course **"ITCS 8156: Ma
 4. Ian Goodfellow, Yoshua Bengio, and Aaron Courville, [Deep Learning](https://www.deeplearningbook.org), MIT Press, 2015.
 5. Kevin P. Murphy, [MachineLearning: A Probabilistic Perspective](https://www.cs.ubc.ca/~murphyk/MLbook/). MIT Press, 2012.
 6. Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong, [Mathematics For Machine Learning](https://mml-book.github.io/book/mml-book.pdf), On-line and free. **[GitHub](https://github.com/mml-book/mml-book.github.io)**, **[Book Site](https://mml-book.github.io)**
+
+### Awesome Github Repositories
+1. [handson-ml2](https://github.com/biqar/handson-ml2): Contains example code and solutions of book `Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow`
