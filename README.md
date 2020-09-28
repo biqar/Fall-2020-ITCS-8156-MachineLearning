@@ -13,8 +13,9 @@ This repository contains the projects and assignments of course **"ITCS 8156: Ma
 ## Reference
 
 ### Book Reference
-1. Aurelien Geron. [Hands-On Machine Learning with Scikit-Learn & TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). 2nd Ed. O'Reilly, 2019. **GitHub** ([Link](https://github.com/ageron/handson-ml2))  
+1. Aurelien Geron. [Hands-On Machine Learning with Scikit-Learn & TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). 2nd Ed. O'Reilly, 2019. **[GitHub](https://github.com/ageron/handson-ml2)**
 2. Ethem Alpaydin, [Introduction to Machine Learning, 3rd edition](https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/), MIT Press, 2014.
-3. Sutton and Barto, Reinforcement Learning: An Introduction, 2nd Edition (2016) [On-line](http://incompleteideas.net/book/the-book-2nd.html) and free.
+3. Sutton and Barto, [Reinforcement Learning: An Introduction, 2nd Edition (2016)](http://incompleteideas.net/book/the-book-2nd.html), On-line and free.
 4. Ian Goodfellow, Yoshua Bengio, and Aaron Courville, [Deep Learning](https://www.deeplearningbook.org), MIT Press, 2015.
 5. Kevin P. Murphy, [MachineLearning: A Probabilistic Perspective](https://www.cs.ubc.ca/~murphyk/MLbook/). MIT Press, 2012.
+6. Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong, [Mathematics For Machine Learning](https://mml-book.github.io/book/mml-book.pdf), On-line and free. **[GitHub](https://github.com/mml-book/mml-book.github.io)**, **[Book Site](https://mml-book.github.io)**
