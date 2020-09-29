@@ -8,7 +8,7 @@ This repository contains the projects and assignments of course **"ITCS 8156: Ma
 * [Assignment #1 - Linear Regression](https://github.com/biqar/Fall-2020-ITCS-8156-MachineLearning/tree/master/programming_assignments/1_Linear-Regression)
 
 ### Reading Assignments
-*
+* [Assignment #1 - Linear Model](https://github.com/biqar/Fall-2020-ITCS-8156-MachineLearning/blob/master/reading_assignments/1_Note-Linear%20Model.ipynb)
 
 ## Reference
 
