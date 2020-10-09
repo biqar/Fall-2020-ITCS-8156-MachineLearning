@@ -22,3 +22,6 @@ This repository contains the projects and assignments of course **"ITCS 8156: Ma
 
 ### Awesome Github Repositories
 1. [handson-ml2](https://github.com/biqar/handson-ml2): Contains example code and solutions of book `Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow`
+
+### Other
+1. [Online Statistics Education: An Interactive Multimedia Course of Study](http://onlinestatbook.com): An Interactive Multimedia Course of Study is a resource for learning and teaching introductory statistics.
