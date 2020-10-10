@@ -35,17 +35,17 @@ Points | | Description
 --|--|:--
 10 | Introduction  
 80 | Data and Visualization | 
- | 10| Introduction of data for regression & source (cite related articles)
- | 5| Reading the data 
- | 5| Preprocessing of the data 
- | 10| Visualization of the data 
- | 10| Preliminary observation 
- | 10| Introduction of data for Classification & source (cite related articles)
- | 5| Reading the data 
- | 5| Preprocessing of the data 
- | 10| Visualization of the data 
- | 10| Preliminary observation 
-5 | Conclusions 
-5 | References 
+\-| 10| Introduction of data for regression & source (cite related articles)
+\-| 5| Reading the data 
+\-| 5| Preprocessing of the data 
+\-| 10| Visualization of the data 
+\-| 10| Preliminary observation 
+\-| 10| Introduction of data for Classification & source (cite related articles)
+\-| 5| Reading the data 
+\-| 5| Preprocessing of the data 
+\-| 10| Visualization of the data 
+\-| 10| Preliminary observation 
+5 | Conclusions |
+5 | References |
 
 
