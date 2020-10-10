@@ -1,6 +1,7 @@
 # Assignment #2 - Classification
 
 <font color="red"> <b> Due: Oct 23 (Friday) 11:00 pm </b> </font>
+
 <font color="blue"> type your name here </font>
 
 ## I. Introduction
@@ -153,24 +154,22 @@ To help our TA's grading, please make an explicit section for each grading crite
 
 ** Note: this is a WRITING assignment. Proper writing is REQUIRED. Comments are not considered as writing. ** 
 
-
-
 points | | description
 --|--|:--
 5 | Overview| states the objective and the appraoch 
 15 | Data | 
- | 5| description 
- | 5| plots for understanding or analysis 
- | 5| preliminary observation 
+\- | 5 | description 
+\- | 5 | plots for understanding or analysis 
+\- | 5 | preliminary observation 
 25 | Methods | 
- |10| Summary of Classification models
- | 5| Explanation of codes
- |10| Pocket, LDA, QDA, Logistic Regression
+\- | 10 | Summary of Classification models
+\- | 5 | Explanation of codes
+\- | 10 | Pocket, LDA, QDA, Logistic Regression
 40 | Experiments 
-| 5| Discussion about evaluation metrics
-| 5| Discussion about train and test accuracies
-|20| plots for results (5 for each algorithm)
-|10| Discussions about classificaion model comparison
-5 | |Conclusions 
-5 | |Referemces
-5 | |Grammar and spelling error (Proofread please)
+\- | 5 | Discussion about evaluation metrics
+\- | 5 | Discussion about train and test accuracies
+\- | 20 | plots for results (5 for each algorithm)
+\- | 10 | Discussions about classificaion model comparison
+5 | Conclusions |
+5 | Referemces |
+5 | Grammar and spelling error (Proofread please) |
