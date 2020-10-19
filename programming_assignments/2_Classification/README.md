@@ -171,5 +171,5 @@ points | | description
 \- | 20 | plots for results (5 for each algorithm)
 \- | 10 | Discussions about classificaion model comparison
 5 | Conclusions |
-5 | Referemces |
+5 | References |
 5 | Grammar and spelling error (Proofread please) |
