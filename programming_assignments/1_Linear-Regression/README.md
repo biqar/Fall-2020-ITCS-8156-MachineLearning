@@ -207,19 +207,19 @@ Points | | Description
 --|--|:--
 5 | Introduction  
 20 | Data | 
- | 5| description 
- | 5| plots for understanding or analysis 
- | 5| preliminary observation 
- | 5| Preprocessing of the data 
+\-| 5| description 
+\-| 5| plots for understanding or analysis 
+\-| 5| preliminary observation 
+\-| 5| Preprocessing of the data 
 40 | Method | 
- | 5| review
- | 5| explanation of codes
- | 30| Correct implementation (preliminary test)
+\-| 5| review
+\-| 5| explanation of codes
+\-| 30| Correct implementation (preliminary test)
 30 | Experiments | 
- | 5| description, codes
- | 10| visualization of results
- | 15| analysis / comparison of algorithms
-5 | Conclusions, References 
+\-| 5| description, codes
+\-| 10| visualization of results
+\-| 15| analysis / comparison of algorithms
+5 | Conclusions, References |
 
 ## Preliminary Test
 
