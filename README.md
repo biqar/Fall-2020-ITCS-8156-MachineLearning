@@ -12,6 +12,10 @@ This repository contains the projects and assignments of course **"ITCS 8156: Ma
 * [Assignment #1 - Linear Model](https://github.com/biqar/Fall-2020-ITCS-8156-MachineLearning/blob/master/reading_assignments/1_Note-Linear%20Model.ipynb)
 * [Assignment #2 - Linear Classification](https://github.com/biqar/Fall-2020-ITCS-8156-MachineLearning/blob/master/reading_assignments/2_Note-Linear%20Classification.ipynb)
 * [Assignment #3 - Classification](https://github.com/biqar/Fall-2020-ITCS-8156-MachineLearning/blob/master/reading_assignments/3_Note-Classification.ipynb)
+* [Assignment #4 - Clustering](https://github.com/biqar/Fall-2020-ITCS-8156-MachineLearning/blob/master/reading_assignments/4_Note-Unsupervised.ipynb)
+* [Assignment #5 - Machine Learning Methodology](https://github.com/biqar/Fall-2020-ITCS-8156-MachineLearning/blob/master/reading_assignments/5_Note-ML%20Methodology.ipynb)
+* [Assignment #6 - Neural Networks](https://github.com/biqar/Fall-2020-ITCS-8156-MachineLearning/blob/master/reading_assignments/6_Note-Neural%20Networks.ipynb)
+* [Assignment #7 - Nonlinear Logistic Regression](https://github.com/biqar/Fall-2020-ITCS-8156-MachineLearning/blob/master/reading_assignments/7_Note-NonlinearLogReg.ipynb)
 
 ## Reference
 
