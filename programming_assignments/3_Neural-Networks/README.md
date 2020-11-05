@@ -108,19 +108,19 @@ points | | description
 --|--|:--
 5 | Overview| states the objective and the appraoch 
 10 | Data | 
- | 2| Includes description of your data
- | 3| Plots to visualize data 
- | 5| Reading and analyzing the plots 
+\-| 2| Includes description of your data
+\-| 3| Plots to visualize data 
+\-| 5| Reading and analyzing the plots 
 40 | Methods | 
- | 10| Summary of CV & correctness of implementation
- | 5| Summary of nonlinear regression 
- | 5| Explanation of codes
- | 5| Summary of nonlinear logistic regression 
- | 5| Explanation of codes
- |10| Examination of correct implementation (NonlinearLogReg) with toy data.
+\-| 10| Summary of CV & correctness of implementation
+\-| 5| Summary of nonlinear regression 
+\-| 5| Explanation of codes
+\-| 5| Summary of nonlinear logistic regression 
+\-| 5| Explanation of codes
+\-|10| Examination of correct implementation (NonlinearLogReg) with toy data.
 40 | Results | Your Data
-| 10| Presentaion of CV results
-| 10| Discussions about parameter/network structure choice 
-| 10| plots for results
-| 10| Discussion about the prediction results. Try to analyze what nonlinear regression model learned. 
+\-| 10| Presentaion of CV results
+\-| 10| Discussions about parameter/network structure choice 
+\-| 10| plots for results
+\-| 10| Discussion about the prediction results. Try to analyze what nonlinear regression model learned. 
 5 | Conclusions 
