@@ -1,3 +1,6 @@
 [submodule "project/ALEX"]
 	path = project/ALEX
 	url = https://github.com/biqar/ALEX
+[submodule "project/learned-leveldb"]
+	path = project/learned-leveldb
+	url = https://bitbucket.org/daiyifandanny/learned-leveldb
