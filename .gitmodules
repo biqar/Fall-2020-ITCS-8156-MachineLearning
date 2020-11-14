@@ -1,0 +1,3 @@
+[submodule "project/ALEX"]
+	path = project/ALEX
+	url = https://github.com/biqar/ALEX
