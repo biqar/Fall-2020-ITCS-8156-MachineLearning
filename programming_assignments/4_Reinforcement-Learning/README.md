@@ -29,13 +29,12 @@ Describe the objective of this assignment. You can briefly state how you accompi
 <img src="https://gym.openai.com/videos/2019-10-21--mqt8Qj1mwo/MountainCarContinuous-v0/poster.jpg" data-video-type="video/mp4" data-video-source="https://gym.openai.com/videos/2019-10-21--mqt8Qj1mwo/MountainCarContinuous-v0/original.mp4">
 
 ### STEPS for Mountain Car
-
 1. [II Problems] Learn the classic mountain car problem and explain it
-2. [II Problems] Learn how to use the OpenAI Gym "MountainCarContinuous-v0" environment ([OpenAI Gym MountainCarContinuous-v0](https://gym.openai.com/envs/MountainCarContinuous-v0/))
-  2.a. Following the link, by clicking the document tab, you can learn how to install and use openai.gym
+2. [II Problems] Learn how to use the OpenAI Gym "MountainCarContinuous-v0" environment ([OpenAI Gym MountainCarContinuous-v0](https://gym.openai.com/envs/MountainCarContinuous-v0/))<br/>
+&emsp;&emsp;2.a. Following the link, by clicking the document tab, you can learn how to install and use openai.gym
 3. [III Methods] Build your own RLAgent class to solve the problem.
 4. [III Methods] Explain your RLAgent (with a neural network function approximator)
-5. [IV Results]  Discuss the results 
+5. [IV Results]  Discuss the results
 
 # III. Methods
 - Decide your TD learning approach: SARSA or Q-learning? 
