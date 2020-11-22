@@ -4,3 +4,6 @@
 [submodule "project/learned-leveldb"]
 	path = project/learned-leveldb
 	url = https://bitbucket.org/daiyifandanny/learned-leveldb
+[submodule "project/plr"]
+	path = project/plr
+	url = https://github.com/RyanMarcus/plr
