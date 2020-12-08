@@ -9,6 +9,7 @@ This repository contains the projects and assignments of course **"ITCS 8156: Ma
 * [Assignment #2 - Classification](https://github.com/biqar/Fall-2020-ITCS-8156-MachineLearning/tree/master/programming_assignments/2_Classification)
 * [Assignment #3 - Neural Networks](https://github.com/biqar/Fall-2020-ITCS-8156-MachineLearning/tree/master/programming_assignments/3_Neural-Networks)
 * [Assignment #4 - Reinforcement Learning](https://github.com/biqar/Fall-2020-ITCS-8156-MachineLearning/tree/master/programming_assignments/4_Reinforcement-Learning)
+* [Assignment #5 - Deep Learning](https://github.com/biqar/Fall-2020-ITCS-8156-MachineLearning/tree/master/programming_assignments/5_Deep-Learning)
 
 ### Reading Assignments
 * [Assignment #1 - Linear Model](https://github.com/biqar/Fall-2020-ITCS-8156-MachineLearning/blob/master/reading_assignments/1_Note-Linear%20Model.ipynb)
