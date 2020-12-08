@@ -41,11 +41,11 @@ Only well-written notebook will be graded. Please follow the structure and fill 
 
 extra credit points | description
 --|:--
-1 | First structure (implementation, explanation, plot results, discussion of results)
- | Second structure (implementation, explanation, plot results, discussion of results)
- | Third structure (implementation, explanation, plot results, discussion of results)
-1 | Explaining and discussing the reason for the selection (Any relation to your data?)
-  | Comparing the results, discuss or verify your choice 
+| 1 | First structure (implementation, explanation, plot results, discussion of results)
+| | Second structure (implementation, explanation, plot results, discussion of results)
+| | Third structure (implementation, explanation, plot results, discussion of results)
+| 1 | Explaining and discussing the reason for the selection (Any relation to your data?)
+|  | Comparing the results, discuss or verify your choice 
 
 #### Optional Extra Credits
 
@@ -55,5 +55,5 @@ extra credit points | description
 
 There are a lot of different neural networks as you see in the figure below. The image is just for your reference but you **are not required** to implement any other types of neurons such as LSTM, CNN, etc. You are fine to use basic neurons with different number of layers and hidden units to fulfil the requirement of this assignment.
 
-<img src="https://camo.githubusercontent.com/31e20172e3b7bc5530a6e7c7e7339e8e556d0acc/687474703a2f2f7777772e6173696d6f76696e737469747574652e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f30392f6e657572616c6e6574776f726b732e706e67" width=700 />
+<img src="https://camo.githubusercontent.com/31e20172e3b7bc5530a6e7c7e7339e8e556d0acc/687474703a2f2f7777772e6173696d6f76696e737469747574652e6f72672f77702d636f6e74656e742f75706c6f6164732f323031362f30392f6e657572616c6e6574776f726b732e706e67"/>
 
