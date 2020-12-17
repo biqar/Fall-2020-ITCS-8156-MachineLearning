@@ -2,13 +2,17 @@
 
 Indexing data-structures are a fundamental part of many data management applications. Instead of searching in the whole space, indexing data-structures accelerate the data access by narrowing the search space to a lower granularity level. For example, B-Tree, a tree-like indexing data-structure, is widely used in the data management domain. In B-Tree, only the leaf nodes store both the keys and values, but the internal nodes only store keys. In a B-Tree, searching for a key happens in two-stage lookup operations. First, it traverses to leaf the leaf node by making comparisons in the internal nodes. Second, it does a binary search within the leaf note to find the key's exact location. There are a couple of drawbacks of such storage layout and search strategies. First, the internal nodes have to store the keys to compare during the lookups and thus introduce the "write amplification". This issue would worsen when the storage devices have asymmetric read-write latency. Second, the lookup is suffered by the cache misses. When the tree becomes deep, the number of comparisons and branches can be large, which leads to many cache misses. Furthermore, typically, at the leaf node, a binary search is performed to find the key's position, which brings additional cache misses. Figure 1 shows the example of a B-Tree.
 
-
-Figure 1: Example of B-Tree
+<p align="center">
+  <img src="https://github.com/biqar/Fall-2020-ITCS-8156-MachineLearning/blob/master/project/resources/b-tree.png" />
+  <p align="center">Figure 1: Example of B-Tree<p align="center">
+</p>
 
 Targeting to reduce the data amplifications and lookup cache misses, the data management domain tries to adopt machine learning techniques. Thanks to the “learned index” [1] that first shows these possibilities. We know the machine learning models can predict the location of a targeted “key” from a sorted array, and we also know that data is kept sorted in the B-Tree leaf nodes. Let us consider, we have a supervised machine learning model for all the leaf nodes of a B-Tree and the leaf nodes placed side by side. Now, given a key, that model will predict the key's location within the (logically) sorted array. This is the key idea behind the “Learned Index” concept, where a machine learning model replaces b-Tree. Figure 2 shows such an arrangement from [1].
 
-
-Figure 2: Why B-Trees are models [1]
+<p align="center">
+  <img src="https://github.com/biqar/Fall-2020-ITCS-8156-MachineLearning/blob/master/project/resources/b-tree_as_ml_model.png" />
+  <p align="center">Figure 2: Why B-Trees are models [1]<p align="center">
+</p>
 
 Here, although we replaced the B-Tree with a machine learning model (e.g., neural network), the lookup operation would be the same as before. Given a key, the machine learning model will predict the key's exact location within a sorted array. As we know, such a perfect machine learning model is hard to get. So in our use-case, we should consider some error boundary during the prediction, and we have to search within this range to get the exact key. In figure 2, after the neural network predicts a key position, we have to make a local search within the minimum and maximum error margin of the model.
 
@@ -19,6 +23,7 @@ In this research, we systematically explored the learned index model's design ch
 ## TODOs
 1. Understand the ALEX codebase
 2. Understand the CDFShop codebase
+3. Clearly mention the contribution of this project
 
 ## Reference
 
