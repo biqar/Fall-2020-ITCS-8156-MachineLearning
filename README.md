@@ -22,6 +22,9 @@ This repository contains the projects and assignments of course **"ITCS 8156: Ma
 * [Assignment #8 - Reinforcement Learning](https://github.com/biqar/Fall-2020-ITCS-8156-MachineLearning/blob/master/reading_assignments/8_Note-ReinforcementLearning.ipynb)
 * [Assignment #9 - Reinforcement Learning with Neural Network Function Approximation](https://github.com/biqar/Fall-2020-ITCS-8156-MachineLearning/blob/master/reading_assignments/9_Note-NN%20for%20RL.ipynb)
 
+### Project
+* [Understand the Impact of Different Regression Techniques on Updatable Learned Index](https://github.com/biqar/Fall-2020-ITCS-8156-MachineLearning/tree/master/project)
+
 ## Reference
 
 ### Book Reference
